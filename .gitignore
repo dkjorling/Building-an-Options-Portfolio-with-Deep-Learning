@@ -5,6 +5,7 @@
 *.json
 *.png
 *.log
-^.env
+*.env
 *.DS_Store
 *.ipynb_checkpoints/
+*.pyc
