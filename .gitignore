@@ -1,0 +1,10 @@
+*.docx
+*.doc
+*.pdf
+*.csv
+*.json
+*.png
+*.log
+^.env
+*.DS_Store
+*.ipynb_checkpoints/
